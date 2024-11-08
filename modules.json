@@ -1,4 +1,4 @@
 {
-    "remote-simple" : "https://github.com/theosfa/remote",
+    "remote" : "https://github.com/theosfa/remote",
     "python_clock" : "https://github.com/theosfa/python_clock.git"
 }
